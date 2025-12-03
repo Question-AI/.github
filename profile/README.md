@@ -1,6 +1,6 @@
-# 🧐 Question AI: Your Best Homework Companion
+# 🧐 Question AI Free Online: Solve All Your Homework in Seconds
 
-*The ultimate AI homework helper for students seeking accurate answers and step-by-step solutions in math, physics, chemistry, and more.*
+*Question AI is your all-in-one AI homework helper, solving math, science, and literature with clear step-by-step solutions.*
 
 ---
 ## What is Question AI?
